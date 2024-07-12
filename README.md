@@ -36,7 +36,9 @@ To run JobSwift locally, follow these steps:
    git clone https://github.com/JobSwift-Accelerating-Careers-with-AI-Powered-Applications.git
    cd JobSwift-Accelerating-Careers-with-AI-Powered-Applications
 3. Run the Streamlit App
+   ```bash
     streamlit run app.py
+   
 
 ## Acknowledgements
 PaLM model by Google for text generation.
