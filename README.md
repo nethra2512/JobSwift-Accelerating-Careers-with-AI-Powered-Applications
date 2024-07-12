@@ -41,7 +41,7 @@ To run JobSwift locally, follow these steps:
    
 
 ## Acknowledgements
-PaLM model by Google for text generation.
-Streamlit for the interactive web interface.
-Pillow for image processing.
+-PaLM model by Google for text generation.
+-Streamlit for the interactive web interface.
+-Pillow for image processing.
 
