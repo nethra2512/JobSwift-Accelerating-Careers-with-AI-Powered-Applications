@@ -3,7 +3,7 @@ import google.generativeai as palm
 from PIL import Image
 
 # Configure the PaLM API
-palm.configure(api_key="AIzaSyAzjyZwQqXqQl-Fdo2Oxi-7enGKNYUax0E")
+palm.configure(api_key="Enter API KEY")
 model_name = "models/text-bison-001"
 
 def generate_resume(name, experience, skills, projects, education, awards, linkedin=None, github=None):
